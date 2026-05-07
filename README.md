@@ -19,9 +19,9 @@ tetris/
 ## Getting Started
 
 1. Download or clone the project folder
-  ```bash
-  git clone https://github.com/AmmarAli12369001/Tetris
-  ```
+```bash
+git clone https://github.com/AmmarAli12369001/Tetris
+```
 2. Make sure all three files (`index.html`, `style.css`, `tetris.js`) are in the **same folder**
 3. Open `index.html` in a browser
 4. Click **▶ PLAY** and enjoy
@@ -81,10 +81,10 @@ tetris/
 
 ## Built With
 
-- **HTML5 Canvas** — game board and piece rendering
-- **Vanilla JavaScript** — all game logic, no frameworks
-- **CSS3** — animations, neon glow effects, layout
-- **Google Fonts** — Orbitron (display), Share Tech Mono (UI)
+- **HTML5 Canvas** -> game board and piece rendering
+- **Vanilla JavaScript** -> all game logic, no frameworks
+- **CSS3** -> animations, neon glow effects, layout
+- **Google Fonts** -> Orbitron (display), Share Tech Mono (UI)
 
 ---
 
